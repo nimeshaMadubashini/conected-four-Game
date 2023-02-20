@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e86aa35-6d2b-46ba-b3b0-a352b2ed042c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EDl97LwmAupuM5Fq6Nk5V6I6tH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Couse Work/connect-four-game-assignment&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.dep.Launcher" />
+      <module name="connect-four-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.dep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e86aa35-6d2b-46ba-b3b0-a352b2ed042c" name="Default Changelist" comment="" />
+      <created>1662137891018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662137891018</updated>
+      <workItem from="1662137921884" duration="1652000" />
+      <workItem from="1662141247140" duration="309000" />
+      <workItem from="1662182208962" duration="5856000" />
+      <workItem from="1662195802140" duration="10148000" />
+      <workItem from="1662220949231" duration="4696000" />
+      <workItem from="1662265846866" duration="4045000" />
+      <workItem from="1662280172111" duration="650000" />
+      <workItem from="1662352342723" duration="14000" />
+      <workItem from="1662353101250" duration="9658000" />
+      <workItem from="1662369821525" duration="10602000" />
+      <workItem from="1662109760528" duration="3877000" />
+      <workItem from="1662127082402" duration="2948000" />
+      <workItem from="1662130982370" duration="2181000" />
+      <workItem from="1662136359573" duration="1492000" />
+      <workItem from="1662138456002" duration="2737000" />
+      <workItem from="1662195395714" duration="4733000" />
+      <workItem from="1662287119717" duration="3679000" />
+      <workItem from="1662297480238" duration="2879000" />
+      <workItem from="1662128224406" duration="2910000" />
+      <workItem from="1662137490734" duration="1821000" />
+      <workItem from="1662178500896" duration="783000" />
+      <workItem from="1662200389496" duration="1771000" />
+      <workItem from="1662282982231" duration="3827000" />
+      <workItem from="1662299635882" duration="2876000" />
+      <workItem from="1662350614038" duration="4455000" />
+      <workItem from="1662118815574" duration="86000" />
+      <workItem from="1676386763484" duration="1021000" />
+      <workItem from="1676911273517" duration="436000" />
+      <workItem from="1676911752994" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/Launcher.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
